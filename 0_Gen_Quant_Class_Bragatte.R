@@ -1,5 +1,5 @@
 #Link RStudio (https://rstudio.cloud/project/792398)
-#Link Github ()
+#Link Github (https://github.com/BragatteMAS/R-Quantitative_Genetics)
 # Aula 1 - Genética quantitativa - conceitos básicos e revisão ANOVA
 
 #Install.packages
